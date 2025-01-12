@@ -20,7 +20,7 @@
 
 ```js
 const codebyjimenez = {
-  education:'Autodidacte, passionné par l'apprentissage continu 🤓',
+  education:"Autodidacte, passionné par l'apprentissage continu 🤓",
   interest :["Web & Mobile Design", "Développement Web", "Développement Mobile", "SaaS", "IA"],
   current:  "Apprend le Machine Learning tout en explorant des projets captivants 🚀",
   tech: {
