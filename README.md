@@ -17,3 +17,18 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
   À propos
 </h2>
+
+
+const codebyjimenez = {
+  education:'Autodidacte, passionné par l'apprentissage continu 🤓',
+  interest :["Web & Mobile Design", "Développement Web", "Développement Mobile", "SaaS", "IA"],
+  current:  "Apprend le Machine Learning tout en explorant des projets captivants 🚀",
+  tech: {
+    webFrontend: ["React", "Next.js", "Tailwind CSS"],
+    mobileDevelopment: ["React Native", "Flutter"],
+    databaseAndAPIs: ["Supabase", "Firebase"],
+    tools: ["Git", "Figma", "VS Code"],
+  },
+  "Je code mieux avec une bonne playlist lo-fi 🎧",
+};
+
