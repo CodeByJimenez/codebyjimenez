@@ -18,7 +18,7 @@
   À propos
 </h2>
 
-
+```js
 const codebyjimenez = {
   education:'Autodidacte, passionné par l'apprentissage continu 🤓',
   interest :["Web & Mobile Design", "Développement Web", "Développement Mobile", "SaaS", "IA"],
@@ -31,4 +31,4 @@ const codebyjimenez = {
   },
   "Je code mieux avec une bonne playlist lo-fi 🎧",
 };
-
+```
