@@ -22,13 +22,13 @@
 const codebyjimenez = {
   education:"Autodidacte, passionné par l'apprentissage continu 🤓",
   interest :["Web & Mobile Design", "Développement Web", "Développement Mobile", "SaaS", "IA"],
-  current:  "Apprend le Machine Learning tout en explorant des projets captivants 🚀",
+  current:  "J'apprends le Machine Learning tout en explorant des projets captivants 🚀",
   tech: {
     webFrontend: ["React", "Next.js", "Tailwind CSS"],
     mobileDevelopment: ["React Native", "Flutter"],
     databaseAndAPIs: ["Supabase", "Firebase"],
     tools: ["Git", "Figma", "VS Code"],
   },
-  "Je code mieux avec une bonne playlist lo-fi 🎧",
+  funFact:"Je code mieux avec une bonne playlist lo-fi 🎧",
 };
 ```
