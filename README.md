@@ -32,3 +32,16 @@ const codebyjimenez = {
   funFact:"Je code mieux avec une bonne playlist lo-fi 🎧",
 };
 ```
+
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
+  Skills & Technologies
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</div>
