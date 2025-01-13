@@ -42,7 +42,7 @@ const codebyjimenez = {
   <img src="https://skillicons.dev/icons?i=figma,html,css,js" />
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
 </div>
 
 
