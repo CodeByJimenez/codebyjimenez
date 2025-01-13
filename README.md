@@ -26,7 +26,7 @@ const codebyjimenez = {
   tech: {
     webFrontend: ["React", "Next.js", "Tailwind CSS"],
     mobileDevelopment: ["React Native", "Flutter"],
-    databaseAndAPIs: ["Supabase", "Firebase"],
+    databaseAndAPIs: ["MySQL","Supabase", "Firebase"],
     tools: ["Git", "Figma", "VS Code"],
   },
   funFact:"Je code mieux avec une bonne playlist lo-fi 🎧",
@@ -46,9 +46,5 @@ const codebyjimenez = {
 </div>
 
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
-  Achievements
-</h2>
 
 
