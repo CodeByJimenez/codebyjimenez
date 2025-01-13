@@ -38,10 +38,9 @@ const codebyjimenez = {
   Skills & Technologies
 </h2>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" />
 </div>
