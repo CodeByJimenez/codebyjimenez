@@ -39,8 +39,16 @@ const codebyjimenez = {
 </h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js" />
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" />
 </div>
+
+
+<h2 align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
+  Achievements
+</h2>
+
+
