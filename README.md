@@ -20,16 +20,24 @@
 
 ```js
 const codebyjimenez = {
-  education:"Autodidacte, passionné par l'apprentissage continu 🤓",
-  interest :["Web & Mobile Design", "Développement Web", "Développement Mobile", "SaaS", "IA"],
-  current:  "J'apprends le Machine Learning tout en explorant des projets captivants 🚀",
-  tech: {
-    webFrontend: ["React", "Next.js", "Tailwind CSS"],
-    mobileDevelopment: ["React Native", "Flutter"],
-    databaseAndAPIs: ["MySQL","Supabase", "Firebase"],
-    tools: ["Git", "Figma", "VS Code"],
+  identity: "Entrepreneur tech | Builder d'apps",
+  philosophy: "Ship fast, iterate faster 🚀",
+  
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Supabase", "Stripe"],
+    ai: ["Claude API", "Mistral AI", "Prompt Engineering"],
+    tools: ["Claude Code", "VS Code", "Git"],
   },
-  funFact:"Je code mieux avec une bonne playlist lo-fi 🎧",
+  
+  currentProjects: [
+    "🏗️ Ainoncer - Rapports de chantier BTP par IA vocale",
+    "🤖 Building with AI-assisted development"
+  ],
+  
+  approach: "Du concept au lancement : valeur utilisateur et sécurité des données au cœur de chaque projet.",
+  
+  funFact: "Je code mieux avec une bonne playlist lo-fi 🎧"
 };
 ```
 
@@ -39,7 +47,7 @@ const codebyjimenez = {
 </h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,flutter" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
