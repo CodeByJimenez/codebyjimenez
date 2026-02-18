@@ -27,7 +27,7 @@ const codebyjimenez = {
   stack: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Supabase", "Stripe"],
-    ai: ["Claude API", "Mistral AI", "Prompt Engineering"],
+    ai: ["Claude API", "Mistral API", "Prompt Engineering"],
     tools: ["Claude Code", "VS Code", "Git"],
   },
   
