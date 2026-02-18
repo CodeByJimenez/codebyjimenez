@@ -2,14 +2,15 @@
 
   <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Je suis Stéphane Jimenez</h1>
   
-  <a href="https://www.linkedin.com/in/jimenezstephane">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=FFAD69" alt="LinkedIn">
+  <a href="https://x.com/aitincelle" target="_blank">
+  <img src="https://img.shields.io/badge/--%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
   </a>
-  <a href="https://medium.com/@codebyjimenez">
-    <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=FFAD69" alt="Website">
+  <a href="https://www.aitincelle.com">
+    <img src="https://img.shields.io/badge/Website-%23FF6B35.svg?style=for-the-badge&logo=web&logoColor=white" alt="Website">
   </a>
   <a href="https://github.com/codebyjimenez">
-    <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=c33224" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&labelColor=E14F2D&color=c33224" alt="Profile Views">
   </a>  
 </div>
 
