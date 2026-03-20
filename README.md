@@ -21,7 +21,7 @@
 
 ```js
 const codebyjimenez = {
-  identity: "Entrepreneur tech | Builder d'apps",
+  identity: "Entrepreneur tech | Solution builder",
   philosophy: "Ship fast, iterate faster 🚀",
   
   stack: {
@@ -32,13 +32,13 @@ const codebyjimenez = {
   },
   
   currentProjects: [
-    "🏗️ AudioTrade - Journal de trading vocal",
-    "🤖 Building with AI-assisted development"
+    "📈 AudioTrade - Journal de trading vocal",
+    "🦞 Building with AI-assisted development"
   ],
   
-  approach: "Du concept au lancement : valeur utilisateur et sécurité des données au cœur de chaque projet.",
+  approach: "Je construis des architectures multi-agents qui passent de l'expérimentation à la production",
   
-  funFact: "Je code mieux avec une bonne playlist lo-fi 🎧"
+  funFact: "Le code ne résout rien. Il exécute la solution au bon problème"
 };
 ```
 
