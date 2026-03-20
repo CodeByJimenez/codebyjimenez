@@ -49,9 +49,9 @@ const codebyjimenez = {
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </div>
 
 
