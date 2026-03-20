@@ -32,7 +32,7 @@ const codebyjimenez = {
   },
   
   currentProjects: [
-    "🏗️ Ainoncer - Rapports de chantier BTP par IA vocale",
+    "🏗️ AudioTrade - Journal de trading vocal",
     "🤖 Building with AI-assisted development"
   ],
   
